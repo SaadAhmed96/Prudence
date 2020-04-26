@@ -22,3 +22,6 @@ Team Prudence has developed a unique AI driven application that builds on top of
 Our solution uses state of the art Natural Language Processing and Machine learning powered by IBM Watson. The chatbot engages with the healthcare worker serves as an empathetic listener where as Watson Personality Insights helps in understanding the personality of healthcare worker to effectively help in predicting and managing the mental health of healthcare practitioners. We also utilize IBM IOT platform to monitor their wellbeing as well and understand when they are at risk of burnout.  IBM IoT platform allows us to get data on the steps taken, sleep and heart rate  of the healthcare worker. This helps in generating a more comprehensive stress risk score of the user. We believe our solution can reduces stress, increase productivity, instill hope among healthcare  workers that their are better days ahead and allow leaders to manage their teams with compassion and effectiveness.
 
 
+## FUTURE ROAD MAP
+
+![RoadMap](images/roadmap.png)

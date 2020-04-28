@@ -18,8 +18,7 @@ Finding the Path of Hope in Darkness
 
 ## Demo Video
 
-[![Youtube Demo Video](prudence_video_screenshot.png)](https://www.youtube.com/embed/kGOm35kHa_k)
-<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Youtube Demo Video](images/prudence_video_screenshot.png)](https://www.youtube.com/embed/kGOm35kHa_k)
 
  ## The Architecture
 

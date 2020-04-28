@@ -18,7 +18,8 @@ Finding the Path of Hope in Darkness
 
 ## Demo Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kGOm35kHa_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Youtube Demo Video](prudence_video_screenshot.png)](https://www.youtube.com/embed/kGOm35kHa_k)
+<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  ## The Architecture
 
@@ -49,9 +50,9 @@ We also utilize IBM IOT platform to monitor their wellbeing as well and understa
 
 ## DESIGN MOCKUPS
 
-Health care worker application designs https://www.figma.com/proto/2RG3yznmdZNHw31zNqREjn/Covid_19--Prudence?node-id=56%3A765&viewport=503%2C578%2C0.22066399455070496&scaling=min-zoom
+[Health care worker application designs](https://www.figma.com/proto/2RG3yznmdZNHw31zNqREjn/Covid_19--Prudence?node-id=56%3A765&viewport=503%2C578%2C0.22066399455070496&scaling=min-zoom)
 
-Supervisor application screens https://www.figma.com/proto/2RG3yznmdZNHw31zNqREjn/Covid_19-Prudence?node-id=188%3A472&scaling=scale-down
+[Supervisor application screens](https://www.figma.com/proto/2RG3yznmdZNHw31zNqREjn/Covid_19-Prudence?node-id=188%3A472&scaling=scale-down)
 
 
 ## PROJECT ROAD MAP

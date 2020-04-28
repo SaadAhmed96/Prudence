@@ -11,6 +11,7 @@ Finding the Path of Hope in Darkness
 6. Design Mockups
 7. Team Profile
 8. Acknowledgments
+9. Team
 
 ## Short Description
 1- Data Driven to Protect  Mental Health of Health Care Workers.
@@ -57,3 +58,14 @@ Supervisor application screens https://www.figma.com/proto/2RG3yznmdZNHw31zNqREj
 
 ![RoadMap](images/roadmap.png)
 
+## Team
+
+Muhammad Noman - AI and ML Product Specialist
+
+Becky Ng - Frontline RN
+
+Osama Shakir -  Front End Developer
+
+Hamza Khan - Designer
+
+Saad Ahmed -  Data Scientist

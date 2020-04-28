@@ -14,7 +14,7 @@ Finding the Path of Hope in Darkness
 9. Team
 
 ## Short Description
-1- Data Driven to Protect  Mental Health of Health Care Workers.
+1-  Proactively Protect  Mental Health of Health Care Workers Using.
 
 ## Demo Video
 

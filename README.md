@@ -17,12 +17,12 @@ Finding the Path of Hope in Darkness
 1-  Proactively Protect  Mental Health of Health Care Workers Using.
 
 ## Demo Video
-<<<<<<< HEAD
+HEAD
+
+patch-1
+[![Youtube Demo Video](images/prudence_video_screenshot.jpg)](https://www.youtube.com/embed/kGOm35kHa_k)
 
 <iframe width="560" height="400" src="https://www.youtube.com/embed/kGOm35kHa_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-=======
-[![](http://img.youtube.com/vi/kGOm35kHa_k/0.jpg)](http://www.youtube.com/watch?v=kGOm35kHa_k "Demo")
->>>>>>> 023e055073bde44a50472365a63dce20950d1302
 
  ## The Architecture
 
@@ -53,9 +53,9 @@ We also utilize IBM IOT platform to monitor their wellbeing as well and understa
 
 ## DESIGN MOCKUPS
 
-Health care worker application designs https://www.figma.com/proto/2RG3yznmdZNHw31zNqREjn/Covid_19--Prudence?node-id=56%3A765&viewport=503%2C578%2C0.22066399455070496&scaling=min-zoom
+[Health care worker application designs](https://www.figma.com/proto/2RG3yznmdZNHw31zNqREjn/Covid_19--Prudence?node-id=56%3A765&viewport=503%2C578%2C0.22066399455070496&scaling=min-zoom)
 
-Supervisor application screens https://www.figma.com/proto/2RG3yznmdZNHw31zNqREjn/Covid_19-Prudence?node-id=188%3A472&scaling=scale-down
+[Supervisor application screens](https://www.figma.com/proto/2RG3yznmdZNHw31zNqREjn/Covid_19-Prudence?node-id=188%3A472&scaling=scale-down)
 
 
 ## PROJECT ROAD MAP

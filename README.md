@@ -1,7 +1,5 @@
 # Prudence
-Your Partner in Turbulent Times.
-
-
+Finding the Path of Hope in Darkness
 
 ## Contents
 
@@ -10,20 +8,22 @@ Your Partner in Turbulent Times.
 3. The architecture
 4. Long description
 5. Project roadmap
-6. Built with
+6. Design Mockups
 7. Team Profile
 8. Acknowledgments
 
 ## Short Description
-1- Finding the Path of Hope in Darkness
+1- Data Driven to Protect  Mental Health of Health Care Workers.
 
 ## Demo Video
 
-You can find the demo video here: -----------------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kGOm35kHa_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  ## The Architecture
 
-Architecture Diagram Comes Here
+![architecture](images/architecture.png)
+
+
 
 
 ## Long Description
@@ -46,11 +46,14 @@ Our solution uses state of the art Natural Language Processing and Machine learn
 
 We also utilize IBM IOT platform to monitor their wellbeing as well and understand when they are at risk of burnout.  IBM IoT platform allows us to get data on the steps taken, sleep and heart rate  of the healthcare worker. This helps in generating a more comprehensive stress risk score of the user. We believe our solution can reduces stress, increase productivity, instill hope among healthcare  workers that there are better days ahead and allow leaders to manage their teams with compassion and effectiveness.
 
+## DESIGN MOCKUPS
+
+Health care worker application designs https://www.figma.com/proto/2RG3yznmdZNHw31zNqREjn/Covid_19--Prudence?node-id=56%3A765&viewport=503%2C578%2C0.22066399455070496&scaling=min-zoom
+
+Supervisor application screens https://www.figma.com/proto/2RG3yznmdZNHw31zNqREjn/Covid_19-Prudence?node-id=188%3A472&scaling=scale-down
+
 
 ## PROJECT ROAD MAP
 
 ![RoadMap](images/roadmap.png)
 
-## BUILT WITH
-
-Our solution makes extensive use of IBM Cloud services. Our current architecture includes

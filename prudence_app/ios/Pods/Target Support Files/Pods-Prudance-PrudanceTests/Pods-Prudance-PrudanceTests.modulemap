@@ -1,0 +1,6 @@
+module Pods_Prudance_PrudanceTests {
+  umbrella header "Pods-Prudance-PrudanceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

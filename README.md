@@ -17,8 +17,12 @@ Finding the Path of Hope in Darkness
 1-  Proactively Protect  Mental Health of Health Care Workers Using.
 
 ## Demo Video
+<<<<<<< HEAD
 
 <iframe width="560" height="400" src="https://www.youtube.com/embed/kGOm35kHa_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
+[![](http://img.youtube.com/vi/kGOm35kHa_k/0.jpg)](http://www.youtube.com/watch?v=kGOm35kHa_k "Demo")
+>>>>>>> 023e055073bde44a50472365a63dce20950d1302
 
  ## The Architecture
 

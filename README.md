@@ -72,4 +72,4 @@ Saad Ahmed -  Data Scientist
 
 Mentors:
 
-Muneera Rasheed - Clinical Psychologist | Advisor Beryly Institute
+Muneera Rasheed - Clinical Psychologist | Advisor Beryl Institute

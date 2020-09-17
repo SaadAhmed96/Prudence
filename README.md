@@ -71,6 +71,5 @@ Hamza Khan - Designer
 Saad Ahmed -  Data Scientist
 
 Mentors:
-Talha Zahid - Startup Operations and Scalability Expert | Digital Transformation Practitioner
 
 Muneera Rasheed - Clinical Psychologist | Advisor Beryl Institute
